@@ -1,5 +1,7 @@
 # docker-github-changelog-generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/docker-github-changelog-generator.svg?token=ea33e58eead0679eb72d28d54a64473663b41f5e8df8370eedece070a8ce83f0&ts=1506256344718)](https://greenkeeper.io/)
+
 > Docker image to use the GitHub Changelog Generator.
 
 ---
