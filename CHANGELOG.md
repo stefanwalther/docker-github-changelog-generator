@@ -1,5 +1,8 @@
 # Change Log
 
+## [v1.0.1](https://github.com/stefanwalther/docker-github-changelog-generator/tree/v1.0.1) (2017-09-24)
+[Full Changelog](https://github.com/stefanwalther/docker-github-changelog-generator/compare/v1.0.0...v1.0.1)
+
 ## [v1.0.0](https://github.com/stefanwalther/docker-github-changelog-generator/tree/v1.0.0) (2017-09-24)
 
 
