@@ -1,6 +1,6 @@
 {
   "name": "docker-github-changelog-generator",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Docker image to use the GitHub Changelog Generator.",
   "scripts": {
     "docs": "docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb",
